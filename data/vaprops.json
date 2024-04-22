@@ -1,0 +1,90 @@
+{
+  "Flickify": {
+    "Feature": "Avatars",
+    "Overview": "Choose from dozens of avatars to narrate your videos and present the information on screen. Avatars range in gender, age, nationality, and over 20 langugaes.",
+    "ValuePropositionPitch": "Narrate your video without ever stepping foot in front of a camera.",
+    "KeyBenefits": "No experience or camera shy? No problem: Using video avatars can open the door to a multitude of publishers who are reluctant to making videos because they don't have a well lit setup or because they are too nervous to be on camera. This option allows them to explore and earn from their video content.",
+    "TaglinesSlogans": "Human-Like Avatars for Unmatched Engagement!",
+    "Documentation": "Add/Change the Slide Avatar or Voice",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "1328"
+  },
+  "Feature": {
+    "Feature": "Key Values",
+    "Overview": "The Key Values App allows you to set specific targeting parameters for your direct ad orders. If you have a direct agreement with an advertiser tied to a specific page or set of pages, then this is the app for you.",
+    "ValuePropositionPitch": "The Key Values App empowers publishers with precise control over direct ad orders by enabling them to set specific targeting parameters. Designed for publishers with direct agreements tied to specific pages or page sets, this app streamlines ad targeting, ensuring that direct advertisers reach their intended audience effectively and efficiently.",
+    "KeyBenefits": "Targeted Ad Delivery: The Key Values App enables publishers to precisely target direct ad orders to specific pages or sets of pages, ensuring that advertisements are delivered to the most relevant audience.",
+    "TaglinesSlogans": "",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "98690"
+  },
+  "Leap": {
+    "Feature": "Cloud Caching",
+    "Overview": "Cloud Caching enables Ezoic’s Content Delivery Network (CDN) to begin storing and serving cached copies of your site's content for the specified default cache age. With Cloud Caching, your website will load faster, leading to improved user experience and higher engagement. Additionally, our system can reduce the load on your website's origin server, lowering the risk of downtime or slow loading times during peak traffic periods.",
+    "ValuePropositionPitch": "Having Ezoic Cloud Caching enabled can translate to a 30%+ higher page RPM on a cache hit rate vs. cache miss. Meaning, you miss out on publishers accessing your latest and greatest content if not leveraging caching properly",
+    "KeyBenefits": "1. Recommendations: If you have a subpar cache hit rate, there are suggested fixes both within the Leap dashboard as well as you can leverage BDA reports to see which pages are yielding high cache misses/offs.       2. Unique rules: Home pages, checkout pages, etc., warrant unique settings so the publisher has the ability to create page rules where appropriate.",
+    "TaglinesSlogans": "1. Speed Redefined: Ezoic Cloud Caching for Lightning-Fast Content Delivery 2. Maximize Uptime, Minimize Delays: Ezoic Cloud Caching for Seamless Browsing 3. Caching with Intelligence: Ezoic's Solution for a Faster, Smarter Website",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "7808"
+  },
+  "Humix": {
+    "Feature": "Humix WordPress Plugin",
+    "Overview": "The plugin allows users to embed videos from Humix.com with a Humix widget in your theme, a custom block with playback settings like float, autoplay within your content, a simple shortcode anywhere you’d like. You can add a video to all posts under a category when adding a Humix block to your posts. Let Humix AI find the right video to add to your site, or find a video from Humix.com you’d like to embed on your post, paste it into the block, add your settings, and publish.",
+    "ValuePropositionPitch": "Elevate user engagement by seamlessly integrating dynamic Humix videos into your WordPress site, enriching content with visually captivating elements.",
+    "KeyBenefits": "Easy Video Embedding: Simplify the process of adding videos to your site with user-friendly embedding options.\nEnhanced User Engagement: Keep visitors engaged longer with captivating video content.\nDiverse Content Library: Access a wide range of videos from Humix.com to suit various content needs.\nAI-Powered Video Matching: Utilize AI technology to find the most relevant videos for your content automatically.\nSeamless Integration: The plugin integrates smoothly with your WordPress theme, maintaining website aesthetics.\nCategory-Based Video Assignment: Automatically add videos to posts within specific categories for consistent content enhancement.\nShortcode Convenience: Use the [humix] shortcode for quick and flexible video embedding anywhere on your site.\nUser Control and Choice: Manually select specific videos from Humix.com for precise content curation.\nTime-Saving Video Selection: Save time in content creation with AI-assisted or bulk video embedding options.",
+    "TaglinesSlogans": "Embed Videos, Enrich Content Easily.\nAI-Powered, User-Focused Video Integration.\nSeamless Video Embeds, Enhanced Engagement.\nTransform Posts with Smart Video Matching.\nVideo Magic at Your Fingertips.\nEngaging Videos, Effortless Integration.",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "4325"
+  },
+  "NicheIQ": {
+    "Feature": "In general",
+    "Overview": "NicheIQ is an entire suite of the key, most important SEO tools and features, all guaranteed for success in terms of ranking and outperforming competitors in your niche.",
+    "ValuePropositionPitch": "",
+    "KeyBenefits": "",
+    "TaglinesSlogans": "",
+    "Documentation": "",
+    "MediaItems": "https://drive.google.com/drive/folders/1jhrWCjyF3uH_rP5_333fRit2tRuzyO-g?usp=drive_link \n- Gerald NicheIQ Demo: https://drive.google.com/drive/folders/1qoIcT_f7rtvAAOI1hfLjNAYUhVwTDzTN?usp=drive_link",
+    "Ideas": "",
+    "ID": "71044"
+  },
+  "Cloud": {
+    "Feature": "Intelliprotect",
+    "Overview": "Click-fraud, ad penalty, and bot protection. Ezoic Cloud protects your website from ad penalties by blocking malicious and bot traffic.",
+    "ValuePropositionPitch": "Ezoic Cloud stands as a robust shield safeguarding your website against the threats of click fraud, ad penalties, and malicious bot traffic. With state-of-the-art protection measures, it ensures the integrity of your online presence, allowing you to focus on what truly matters: delivering valuable content and maximizing revenue",
+    "KeyBenefits": "1. FREE: Don't need expensive third-party plugins/features to handle this\nClick Fraud Prevention: Ezoic Cloud actively detects and prevents click fraud, safeguarding your ad revenue by blocking fraudulent clicks and ensuring advertisers get quality traffic.\nAd Penalty Avoidance: By identifying and addressing potential issues that could lead to ad penalties, Ezoic Cloud protects your website's ad revenue and reputation.\nBot Traffic Blocking: Malicious bot traffic is filtered out, ensuring that your website's analytics and ad performance data are accurate and reliable.",
+    "TaglinesSlogans": "",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "91876"
+  },
+  "Analytics": {
+    "Feature": "Shared Video Report",
+    "Overview": "",
+    "ValuePropositionPitch": "",
+    "KeyBenefits": "",
+    "TaglinesSlogans": "",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "51384"
+  },
+  "Emote": {
+    "Feature": "Free, no strings attached",
+    "Overview": "Free. No hidden fremium models forcing you to pay once your site has valuable discussions taking place or injects in hidden scripts once your audience grows. Transparent and free for every website.",
+    "ValuePropositionPitch": "Our comment system is truly free and doesn't load hidden junk in the background costing you money directly or indirectly, and will never ask you to. We're transparent, with no catch. It remains completely free, regardless of how much your site or community grows, ensuring you won't face unexpected fees or forced upgrades. We guarantee a straightforward experience without hidden scripts or changes, making it an ideal solution for websites at any stage of growth.",
+    "KeyBenefits": "Genuinely Free, Transparent Comments\n\n---Forever Free: Our comment system stays free, period. No sliding into freemium models or hidden fees just because your discussions become a hit or your audience grows.\n---No Hidden Scripts: As your site flourishes, we promise not to sneak in any scripts or alter the deal. What you see is what you get—transparent operations without surprises.\n---Made For Content Websites: Whether your site is just starting out or already hosting a bustling community, add a world-class comment systemdesigned to support your growth without ever asking for a payment.",
+    "TaglinesSlogans": "1. \"Always free, no matter how big your discussions get. Simple Comments how they're supposed to be\"\n2. \"Free means free, no surprises as you grow or as pages load.\"\n3. \"Use Pyour Page to build a helpful community on us. Always Free, Always Fast..",
+    "Documentation": "",
+    "MediaItems": "",
+    "Ideas": "",
+    "ID": "919"
+  }
+}

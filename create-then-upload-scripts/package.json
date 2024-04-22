@@ -1,0 +1,16 @@
+{
+  "name": "hygraph-using-management-sdk",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@hygraph/management-sdk": "^1.2.1",
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "dotenv": "10.0.0"
+  }
+}
